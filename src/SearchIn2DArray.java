@@ -18,6 +18,6 @@ public class SearchIn2DArray {
                 }
             }
         }
-        return new int[]{-1, -1};   
+        return new int[]{-1, -1};
     }
 }

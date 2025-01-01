@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934b2339-f311-4d7f-a6ae-9297933fe5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchAtString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="934b2339-f311-4d7f-a6ae-9297933fe5ed" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/CielingofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmallestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/floor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxWealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -42,6 +42,9 @@
     &quot;accountId&quot;: &quot;9e959fa0-11c4-44b6-8863-e0776476d824&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/MaxWealth.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -53,49 +56,56 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.Ceiling.executor": "Run",
+    "Application.CielingofArray.executor": "Run",
+    "Application.FirstAndLastPosition.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.MaxWealth.executor": "Run",
     "Application.SearchAtString.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
+    "Application.SmallestLetter.executor": "Debug",
     "Application.calculator.executor": "Run",
     "Application.fibonacci.executor": "Run",
+    "Application.floor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Talif Ali/IdeaProjects/DSA_KK/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Talif Ali/IdeaProjects/DSA_KK/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxWealth">
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearch" />
+  <component name="RunManager" selected="Application.FirstAndLastPosition">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxWealth" />
+    <configuration name="CielingofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CielingofArray" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchIn2DArray" />
+    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastPosition" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator" />
+    <configuration name="SmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestLetter" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacci" />
+    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="floor" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxWealth" />
-        <item itemvalue="Application.SearchIn2DArray" />
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.fibonacci" />
-        <item itemvalue="Application.calculator" />
+        <item itemvalue="Application.FirstAndLastPosition" />
+        <item itemvalue="Application.SmallestLetter" />
+        <item itemvalue="Application.floor" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.CielingofArray" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +130,30 @@
       <option name="presentableId" value="Default" />
       <updated>1734682131920</updated>
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <option name="closed" value="true" />
+      <created>1735368009139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735368009139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
