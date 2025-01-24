@@ -2,10 +2,9 @@ import java.util.Arrays;
 
 public class FirstAndLastPosition {
     public static void main(String[] args) {
-        int[]nums={2,4,6,5,5,5,7,67};
+        int[]num={2,4,6,5,5,5,7,67};
         int target=5;
-        System.out.println(Arrays.toString(searchRange(nums, target)));
-
+        System.out.println(Arrays.toString(searchRange(num, target)));
     }
 
     static int[] searchRange(int[] nums, int target) {

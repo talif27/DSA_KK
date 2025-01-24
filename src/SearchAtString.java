@@ -4,8 +4,6 @@ public class SearchAtString {
             char target='T';
             System.out.println(Search(name,target));
 }
-
-
 static boolean Search(String str, char target) {
      if (str.length() == 0) {
          return false;

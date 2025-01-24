@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934b2339-f311-4d7f-a6ae-9297933fe5ed" name="Changes" comment="...">
-      <change afterPath="$PROJECT_DIR$/src/CielingofArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstAndLastPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmallestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/talif/Mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/talif/Rotated_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/talif/SearchInMountain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxWealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxWealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_KK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_KK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CielingofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CielingofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstAndLastPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstAndLastPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SearchAtString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchAtString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -44,6 +43,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/MaxWealth.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/talif/Rotated_array.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -62,8 +62,12 @@
     "Application.FirstAndLastPosition.executor": "Run",
     "Application.LinearSearch.executor": "Run",
     "Application.MaxWealth.executor": "Run",
+    "Application.Mountain.executor": "Run",
+    "Application.Rotated_array.executor": "Run",
     "Application.SearchAtString.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
+    "Application.SearchInMountain.executor": "Run",
+    "Application.SearchinMountain.executor": "Run",
     "Application.SmallestLetter.executor": "Debug",
     "Application.calculator.executor": "Run",
     "Application.fibonacci.executor": "Run",
@@ -72,40 +76,55 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Talif Ali/IdeaProjects/DSA_KK/src/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstAndLastPosition">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Rotated_array">
+    <configuration name="Mountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mountain" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CielingofArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CielingofArray" />
+    <configuration name="Rotated_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.talif.Rotated_array" />
+      <module name="DSA_KK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.talif.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAtString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchAtString" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstAndLastPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstAndLastPosition" />
+    <configuration name="SearchInMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInMountain" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmallestLetter" />
-      <module name="DSA_KK" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="floor" />
+    <configuration name="SearchinMountain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchinMountain" />
       <module name="DSA_KK" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstAndLastPosition" />
-        <item itemvalue="Application.SmallestLetter" />
-        <item itemvalue="Application.floor" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.CielingofArray" />
+        <item itemvalue="Application.Rotated_array" />
+        <item itemvalue="Application.SearchAtString" />
+        <item itemvalue="Application.SearchInMountain" />
+        <item itemvalue="Application.SearchinMountain" />
+        <item itemvalue="Application.Mountain" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735368009139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="...">
+      <option name="closed" value="true" />
+      <created>1735731941812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735731941812</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +173,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MERGE_COMMITS" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
